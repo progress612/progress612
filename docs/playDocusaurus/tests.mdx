@@ -1,0 +1,86 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+import Figure from "@site/src/components/Figure";
+
+
+
+## Hello World
+
+This is a line.
+
+
+
+<Tabs>
+<TabItem value="js" label="JavaScript">
+
+```js
+function helloWorld() {
+  console.log('Hello, world!');
+}
+```
+
+</TabItem>
+<TabItem value="py" label="Python">
+
+```py
+def hello_world():
+  print("Hello, world!")
+```
+
+</TabItem>
+<TabItem value="java" label="Java">
+
+```java
+class HelloWorld {
+  public static void main(String args[]) {
+    System.out.println("Hello, World");
+  }
+}
+```
+
+</TabItem>
+</Tabs>
+
+:::note
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::tip
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::info
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::caution
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::danger
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+<img src={require('./img/image-20231004185547823.png').default} style={{zoom:0.5}}>
+</img>
+
+<Figure src={require('./img/image-20231004185547823.png').default} style={{zoom:0.1}}></Figure>
+
+---
+
+<Figure src="./img/image-20231004185547823.png" />
+
+<Figure src={require('./img/image-20231004185547823.png').default} style={{zoom:0.1}}></Figure>
+
+<Figure src={require('./img/image-20231004185547823.png').default} style={{zoom:0.1}}></Figure>
