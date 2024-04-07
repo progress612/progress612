@@ -22,7 +22,7 @@ format:
 - 深圳市交通警察（公务员）
 - 从事数据分析、智慧交通建设工作
 
-![](./assets/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D_%E6%B7%B1%E5%9C%B3%E4%BA%A4%E8%AD%A6.jpg){fig-align="center" width=30%}
+![](./assets/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D-%E6%B7%B1%E5%9C%B3%E4%BA%A4%E8%AD%A6.jpg){fig-align="center" width=30%}
 
 # 关于选择
 
@@ -43,7 +43,7 @@ format:
 - 人才济济
 - 重视科技应用
 
-![](./assets/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89_%E7%94%B5%E5%AD%90%E8%AD%A6%E5%AF%9F.jpg){fig-align="center" width=75%}
+![](./assets/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89-%E7%94%B5%E5%AD%90%E8%AD%A6%E5%AF%9F.jpg){fig-align="center" width=75%}
 
 ## 为什么当公务员
 
@@ -51,16 +51,16 @@ format:
 
 :::: {.columns}
 
-::: {.column width="60%"}
+::: {.column width="50%"}
 - 强调纪律性（有时是好事）
-
-禁酒令、离深报备、保密要求等
-
+	- 禁酒令
+	- 离深报备
+	- 保密要求等
 - 会议不少
 :::
 
-::: {.column width="40%"}
-![](./assets/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89_%E7%A6%81%E9%85%92%E4%BB%A4.jpg){fig-align="right" width=80%}
+::: {.column width="50%"}
+![](./assets/%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89-%E7%A6%81%E9%85%92%E4%BB%A4.jpg){fig-align="right" width=80%}
 :::
 
 ::::
@@ -69,7 +69,7 @@ format:
 
 ## 公考须知
 
-- 招考信息：[公考雷达](https://www.gongkaoleida.com) 网站/app
+- 招考信息：[公考雷达](https://www.gongkaoleida.com)；刷题：[粉笔](www.fenbi.com)
 - 选岗自由度
 	- 当届毕业生（选调！） > 应届生 > 往届生
 	- 只能以最高学历报考（本科生岗位最多）
@@ -105,15 +105,17 @@ format:
 
 . . .
 
-[**建议反其道而行**]{align="center" .underline}
+[**建议反其道而行**]{.center .underline}
 
 ## 公考须知
 
 - 选调（**报名要求提高**）、国省考时间线
 
-![](./assets/%E8%AE%A1%E5%88%92%E6%80%A7_%E6%97%B6%E9%97%B4%E8%A1%A8.png){fig-align="center" width=40%}
+![](./assets/%E8%AE%A1%E5%88%92%E6%80%A7-%E6%97%B6%E9%97%B4%E8%A1%A8.png){fig-align="center" width=40%}
 
 - 一般流程：
+
+. . .
 
 笔试（行测、申论）$\Longrightarrow$ 面试 $\Longrightarrow$ 体检 $\Longrightarrow$ 政审
 
@@ -140,24 +142,6 @@ format:
 
 # 如何成为考霸
 
-## 不惧焦虑，迎考而上
-
-个人理解：
-
-考试像线段，科研、事业等像射线（可分解成无数线段，永无止境）
-
-:::: {.columns}
-
-::: {.column width="50%"}
-![射线]()
-:::
-
-::: {.column width="50%"}
-![线段]()
-:::
-
-::::
-
 ## 何为考霸
 
 除了分高，还得够[快]{style="color:red;"}！
@@ -174,7 +158,7 @@ format:
 
 - 原则：一定要有反馈机制
 - 主观题（如面试）怎么办
-	- 推荐[ 2009-13 年湖北公务员面试直播录像](https://www.bilibili.com/video/BV1pb411p72N/)
+	- 推荐 [2009-13 年湖北公务员面试直播录像](https://www.bilibili.com/video/BV1pb411p72N/)
 
 ## 如何成为考霸
 
@@ -192,9 +176,12 @@ format:
 
 - 分类！！！
 	- 吃一道题的堑，长一类题的智：**instance level -> class level**
-[PIC]
+
+![](./assets/%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E8%80%83%E9%9C%B8-%E5%88%86%E7%B1%BB.png){fig-align="center"}
 
 ## 如何成为考霸
+
+### 三、“偷”好答案（Learn from the Best）
 
 - 好答案？
 	- 来源：考官 $\gg$ 高分考生 $\gg$ 其他
@@ -203,31 +190,53 @@ format:
 
 - “偷”：以我为主，因材施教
 
-## 如何成为考霸
+## 如何成为考霸{background-image="./assets/南方科技大学e.jpg" background-opacity=0.3}
 
 技巧只占 50%，心态同样重要
 
 - 不过度焦虑，但求每日进步
 - 让失败成为成功之母
-- 付出总有回报
+- 付出总有收获
 
-[PIC]
+## 不惧焦虑，迎考而上{auto-animate=true}
 
-## 日拱一卒，砥砺成“公”
+个人理解：
+
+考试像线段，科研、事业等像射线（可分解成无数线段，永无止境）
+
+![](./assets/Ray.png){data-id="fig1"}
+
+## 不惧焦虑，迎考而上{auto-animate=true}
+
+个人理解：
+
+考试像线段，科研、事业等像射线（可分解成无数线段，永无止境）
+
+![](./assets/Ray_Infinite_Exams.png){data-id="fig1"}
+
+## 日拱一卒，砥砺成“公”{.nostretch}
 
 希望有更多的同学树立服务意识，积极投入到为人民服务的事业中去，努力成为可堪大用、能担重任的国之栋梁。
 
+. . .
+
 :::: {.columns}
 
-::: {.column width="40%"}
-互助群
+::: {.column width="50%"}
+![考试交流群](./assets/%E7%BE%A4-QR.png){.center width=60%}
 :::
 
-::: {.column width="60%"}
-《神偷考霸》
+::: {.column width="50%"}
+![博客：神偷考霸](./assets/%E7%A5%9E%E5%81%B7%E8%80%83%E9%9C%B8-QR.png){.center}
 :::
 
 ::::
+
+
+
+
+
+
 
 
 
