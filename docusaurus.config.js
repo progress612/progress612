@@ -13,7 +13,7 @@ const config = {
   ],
   
   title: 'ProGress',
-  tagline: '不犯错，不学习',
+  tagline: '不犯错，勿学习',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -89,6 +89,11 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: '/SUSTech-Exam-Killer.html', 
+            label: '公考心得 Slide（刷新一次）', 
+            position: 'left'
+          },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
